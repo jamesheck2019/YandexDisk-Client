@@ -10,7 +10,7 @@
 
 `Download:`
 [https://github.com/jamesheck2019/YandexDisk-Client/releases](https://github.com/jamesheck2019/YandexDisk-Client/releases)
-`Help:`
+* `Help:`
 [https://github.com/jamesheck2019/YandexDisk-Client/wiki](https://github.com/jamesheck2019/YandexDisk-Client/wiki)
 
 ![https://i.postimg.cc/Wbg0GMRg/ure-Wiz199.png](https://i.postimg.cc/Wbg0GMRg/ure-Wiz199.png)
